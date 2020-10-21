@@ -87,7 +87,11 @@ namespace Parcial.Entidades
                 if (alumno is AlumnoRegular)
                     regulares.Add(alumno);
             }
-            return regulares; //TODO donde sea tipo alumnoregular
+            if (regulares.Count == 0)
+            {
+                throw new SinAlumnosRegistradosException();
+            }
+            return regulares;
         }
 
         public void AgregarAsistencia(List<Asistencia> lista, string fecha)

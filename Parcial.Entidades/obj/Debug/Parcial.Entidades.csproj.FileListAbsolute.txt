@@ -4,3 +4,9 @@ C:\Users\i851669\source\repos\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entida
 C:\Users\i851669\source\repos\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\i851669\source\repos\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entidades.dll
 C:\Users\i851669\source\repos\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entidades.pdb
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Entidades\bin\Debug\Parcial.Entidades.dll
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Entidades\bin\Debug\Parcial.Entidades.pdb
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entidades.csprojAssemblyReference.cache
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entidades.dll
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Entidades\obj\Debug\Parcial.Entidades.pdb

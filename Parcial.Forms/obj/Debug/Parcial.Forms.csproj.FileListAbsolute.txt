@@ -1,0 +1,13 @@
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\bin\Debug\Parcial.Forms.exe.config
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\bin\Debug\Parcial.Forms.exe
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\bin\Debug\Parcial.Forms.pdb
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\bin\Debug\Parcial.Entidades.dll
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\bin\Debug\Parcial.Entidades.pdb
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.csprojAssemblyReference.cache
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.Form1.resources
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.Properties.Resources.resources
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.csproj.GenerateResource.cache
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.csproj.CoreCompileInputs.cache
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.csproj.CopyComplete
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.exe
+C:\Users\i851669\source\repos\CAI\Parcial\Parcial.Forms\obj\Debug\Parcial.Forms.pdb
