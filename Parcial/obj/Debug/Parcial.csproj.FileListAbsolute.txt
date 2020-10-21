@@ -1,0 +1,10 @@
+C:\Users\i851669\source\repos\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\i851669\source\repos\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\i851669\source\repos\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\i851669\source\repos\Parcial\Parcial\bin\Debug\Parcial.Entidades.dll
+C:\Users\i851669\source\repos\Parcial\Parcial\bin\Debug\Parcial.Entidades.pdb
+C:\Users\i851669\source\repos\Parcial\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\i851669\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\i851669\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\i851669\source\repos\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\i851669\source\repos\Parcial\Parcial\obj\Debug\Parcial.pdb
