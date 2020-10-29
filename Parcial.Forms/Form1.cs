@@ -32,7 +32,7 @@ namespace Parcial.Forms
                 }
                 else
                 {
-                    string fecha = this.textBox2.Text + "/" + this.textBox4.Text + "/" + this.textBox3.Text;
+                    string fecha = this.textBox2.Text + "/" + this.textBox3.Text + "/" + this.textBox4.Text;
                     List<Asistencia> listaAsistencias = new List<Asistencia>();
                     foreach (object item in checkedListBox1.Items)
                     {
@@ -45,7 +45,7 @@ namespace Parcial.Forms
                     }
                     _presentismo.AgregarAsistencia(listaAsistencias, fecha);
                     checkedListBox1.DataSource = null;
-                    MessageBox.Show("Asistencia para el dia {0} cargada correctamente.", fecha);
+                    MessageBox.Show("Asistencia para el dia "+fecha+" cargada correctamente.");
                     this.textBox1.Text = string.Empty;
                     this.textBox2.Text = string.Empty;
                     this.textBox3.Text = string.Empty;
